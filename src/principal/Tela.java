@@ -113,9 +113,6 @@ public class Tela extends JPanel {
 		System.out.println("Tela init");
 	}
 	
-	public void pintar() {
-		
-	}
 	
 	public void paintComponent(Graphics g) {
 		super.paintComponent(g);
